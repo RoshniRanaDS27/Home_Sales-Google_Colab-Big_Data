@@ -1,4 +1,5 @@
 # Project Title: Spark SQL for Data Analysis (Home_Sales)
+![image](https://github.com/user-attachments/assets/14e2abac-7287-4306-9d91-8d06dfa0ac1c)
 
 ## Description:
 
