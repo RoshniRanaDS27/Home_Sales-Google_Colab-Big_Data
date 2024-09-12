@@ -11,7 +11,7 @@ This project demonstrates Spark SQL's capabilities for data analysis using a hom
 - Performing basic data analysis tasks using Spark SQL syntax
 - Exploring data caching for performance optimization
 - Writing and reading data in Parquet format (a columnar file format)
-
+ 
 ## Requirements:
 
 - A Linux environment with:
